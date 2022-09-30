@@ -1,0 +1,57 @@
+body {
+    background-image: url(Max.jpg);
+}
+
+.container {
+    background: #eee;
+    width: 20%;
+    height: 40%;
+    margin: 10% 40%;
+    padding: 3px 10px;
+    border-radius: 7px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    font-family: 'source Sans Pro', sans-serif;
+
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    padding: 15px 5px;
+    margin: 0 30px;
+    border: 0;
+    border-radius: 10px;
+}
+
+
+
+.btn {
+    background-color: aqua;
+    border-radius: 10px;
+
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
+
+img{
+    width: 70px;
+    margin-top: -50px;
+}
+
